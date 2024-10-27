@@ -3,7 +3,7 @@ CC = gcc
 
 CFLAGS += -Wall -pedantic -O2 -g -D_DEFAULT_SOURCE
 
-SOURCE = *.c *.h *akefile*
+SOURCE = *.c Makefile
 PROGRAM = sherlock
 
 all:	$(PROGRAM)
