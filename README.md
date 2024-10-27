@@ -7,6 +7,11 @@ A modification of sherlock plagiarism detector.
 
 -e - File extension (default is .c)
 
+### Static binary for x86-64 linux
+
+This repository includes a statically-linked executable, built using Alpine linux.
+See `sherlock.tgz`, in <https://github.com/phlummox-mirrors/sherlock/releases>.
+
 ### Sherlock was written by Rob Pike and Loki. More information below.
 
 Author's website (http://rp-www.cs.usyd.edu.au/~scilect/sherlock/) was/is offline, so I got the content below from google cache.
